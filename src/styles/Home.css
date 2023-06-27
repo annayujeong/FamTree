@@ -1,0 +1,17 @@
+.homeContainer {
+    height: 100vh;
+    background-color: #ede0d4;
+    /* background-color: #e6ccb2; */
+    color: #4a834c;
+}
+
+.homeSubContainer {
+    padding-top: 30vh;
+    text-align: center;
+}
+
+.homeWelcomeText {
+    margin-top: 0;
+    font-size: 50pt;
+    font-weight: bold;
+}
